@@ -22,7 +22,7 @@
 <h5>So glad to be home.</h5>
 <h6>Very peaceful and quiet</h6>
 
-<p>But nothing is as painful as fighting with your own mind when your heart tells different.</p>
+<p>But nothing as painful as fighting with your own mind when your heart tells different.</p>
 <p>Feeling fuckin horrible</p>
 
 <h1>My heart aches in silent plea</h1>

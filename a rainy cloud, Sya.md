@@ -25,13 +25,12 @@
 <p>But nothing is as painful as fighting with your own mind when your heart tells different.</p>
 <p>Feeling fuckin horrible</p>
 
-<!-- Your poem section -->
+<h1>My heart aches in silent plea</h1>
 <p>The moon has died,</p>
 <p>The stars have died,</p>
 <p>The wind has died.</p>
 
 <p>I keep telling myself it's alright, but people really know how to ruin me.</p>
-<p>My heart aches in silent plea.</p>
 
 <p>It's a pain that I've learned to bear while masking my heartache with a painted smile.</p>
 <p>Can I not shed endless tears?</p>

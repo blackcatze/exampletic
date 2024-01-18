@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hey Sya, Its Sya :)</title>
+    <title> Hey Sya, Its Sya :) </title>
     
     -->for css link later dont forget! :))
 </head>

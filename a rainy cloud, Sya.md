@@ -14,7 +14,7 @@
 <p>Sya, a rainy cloud</p>
 <p>Task 1 CERF level is A2, keep it up.</p>
 
-<h2>whats the purpose of all this things :) ?</h2>
+<h2>whats the purpose of all of this things :) ?</h2>
 <h3>"You ask me, I ask who?"</h3>
 <h4>I don't even know.</h4>
 
